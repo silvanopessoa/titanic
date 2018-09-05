@@ -1,3 +1,4 @@
 metastore_db
 derby.log
 .ipynb_checkpoints/titanic-checkpoint.ipynb
+.ipynb_checkpoints/titanic-datamunging-checkpoint.ipynb

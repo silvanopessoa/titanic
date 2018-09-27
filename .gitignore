@@ -2,3 +2,4 @@ metastore_db
 derby.log
 .ipynb_checkpoints/titanic-checkpoint.ipynb
 .ipynb_checkpoints/titanic-datamunging-checkpoint.ipynb
+.ipynb_checkpoints/01 - Análise Exploratória de Dados - Titanic-checkpoint.ipynb
